@@ -39,11 +39,11 @@ public class HelperForm extends HelperBase {
 
     private void selectHobbies(String hobbies) {
         if (hobbies.equals("Sports")){
-            click(By.id("hobbies-checkbox-1"));
+            click(By.xpath("//label[@for='hobbies-checkbox-1']"));
         }else if (hobbies.equals("Reading")){
-            click(By.id("hobbies-checkbox-2"));
+            click(By.xpath("//label[@for='hobbies-checkbox-2']"));
         }else {
-            click(By.id("hobbies-checkbox-3"));
+            click(By.xpath("//label[@for='hobbies-checkbox-3']"));
         }
     }
 
@@ -65,11 +65,11 @@ public class HelperForm extends HelperBase {
 
     private void selectGender(String gender) {
         if (gender.equals("Male")) {
-            click(By.id("gender-radio-1"));
+            click(By.xpath("//label[@for='gender-radio-1']"));
         } else if (gender.equals("Female")) {
-            click(By.id("gender-radio-2"));
+            click(By.xpath("//label[@for='gender-radio-2']"));
         } else {
-            click(By.id("gender-radio-3"));
+            click(By.xpath("//label[@for='gender-radio-3']"));
         }
     }
     public void selectPicture(String link){
