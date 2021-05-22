@@ -1,0 +1,57 @@
+19:52:19 2596 [Test worker] INFO  - Start navigate to-->https://demoqa.com/
+19:52:22 5226 [Test worker] INFO  - Start method -->formTest
+19:52:22 5228 [Test worker] INFO  - Start search element-->By.xpath: //div[@class='category-cards']/div[2]
+19:52:22 5251 [Test worker] INFO  - Found ---> By.xpath: //div[@class='category-cards']/div[2]
+19:52:22 5876 [Test worker] INFO  - Start search element-->By.xpath: //span[.='Practice Form']
+19:52:23 5918 [Test worker] INFO  - Found ---> By.xpath: //span[.='Practice Form']
+19:52:23 6048 [Test worker] INFO  - Start search element-->By.id: firstName
+19:52:23 6066 [Test worker] INFO  - Found ---> By.id: firstName
+19:52:23 6121 [Test worker] INFO  - Start search element-->By.id: firstName
+19:52:23 6132 [Test worker] INFO  - Found ---> By.id: firstName
+19:52:23 6159 [Test worker] INFO  - Start search element-->By.id: firstName
+19:52:23 6167 [Test worker] INFO  - Found ---> By.id: firstName
+19:52:23 6214 [Test worker] INFO  - Start search element-->By.id: lastName
+19:52:23 6229 [Test worker] INFO  - Found ---> By.id: lastName
+19:52:23 6276 [Test worker] INFO  - Start search element-->By.id: lastName
+19:52:23 6286 [Test worker] INFO  - Found ---> By.id: lastName
+19:52:23 6314 [Test worker] INFO  - Start search element-->By.id: lastName
+19:52:23 6326 [Test worker] INFO  - Found ---> By.id: lastName
+19:52:23 6359 [Test worker] INFO  - Start search element-->By.id: userEmail
+19:52:23 6372 [Test worker] INFO  - Found ---> By.id: userEmail
+19:52:23 6415 [Test worker] INFO  - Start search element-->By.id: userEmail
+19:52:23 6428 [Test worker] INFO  - Found ---> By.id: userEmail
+19:52:23 6451 [Test worker] INFO  - Start search element-->By.id: userEmail
+19:52:23 6463 [Test worker] INFO  - Found ---> By.id: userEmail
+19:52:23 6527 [Test worker] INFO  - Start search element-->By.xpath: //label[@for='gender-radio-2']
+19:52:23 6542 [Test worker] INFO  - Found ---> By.xpath: //label[@for='gender-radio-2']
+19:52:23 6594 [Test worker] INFO  - Start search element-->By.id: userNumber
+19:52:23 6610 [Test worker] INFO  - Found ---> By.id: userNumber
+19:52:23 6654 [Test worker] INFO  - Start search element-->By.id: userNumber
+19:52:23 6665 [Test worker] INFO  - Found ---> By.id: userNumber
+19:52:23 6696 [Test worker] INFO  - Start search element-->By.id: userNumber
+19:52:23 6706 [Test worker] INFO  - Found ---> By.id: userNumber
+19:52:23 6753 [Test worker] INFO  - Start search element-->By.id: subjectsInput
+19:52:23 6770 [Test worker] INFO  - Found ---> By.id: subjectsInput
+19:52:23 6832 [Test worker] INFO  - Start search element-->By.id: subjectsInput
+19:52:23 6843 [Test worker] INFO  - Found ---> By.id: subjectsInput
+19:52:23 6869 [Test worker] INFO  - Start search element-->By.id: subjectsInput
+19:52:23 6882 [Test worker] INFO  - Found ---> By.id: subjectsInput
+19:52:24 6949 [Test worker] INFO  - Start search element-->By.id: subjectsInput
+19:52:24 6968 [Test worker] INFO  - Found ---> By.id: subjectsInput
+19:52:24 7002 [Test worker] INFO  - Start search element-->By.id: currentAddress
+19:52:24 7020 [Test worker] INFO  - Found ---> By.id: currentAddress
+19:52:24 7062 [Test worker] INFO  - Start search element-->By.id: currentAddress
+19:52:24 7070 [Test worker] INFO  - Found ---> By.id: currentAddress
+19:52:24 7106 [Test worker] INFO  - Start search element-->By.id: currentAddress
+19:52:24 7136 [Test worker] INFO  - Found ---> By.id: currentAddress
+19:52:24 7205 [Test worker] INFO  - Start search element-->By.id: react-select-3-input
+19:52:24 7219 [Test worker] INFO  - Found ---> By.id: react-select-3-input
+19:52:24 7477 [Test worker] INFO  - Start search element-->By.id: react-select-4-input
+19:52:24 7490 [Test worker] INFO  - Found ---> By.id: react-select-4-input
+19:52:24 7783 [Test worker] INFO  - Start search element-->By.id: uploadPicture
+19:52:24 7797 [Test worker] INFO  - Found ---> By.id: uploadPicture
+19:52:24 7831 [Test worker] INFO  - Start search element-->By.id: submit
+19:52:24 7857 [Test worker] INFO  - Found ---> By.id: submit
+19:52:25 7915 [Test worker] INFO  - Start search element-->By.id: example-modal-sizes-title-lg
+19:52:25 7932 [Test worker] INFO  - Found ---> By.id: example-modal-sizes-title-lg
+19:52:25 7954 [Test worker] INFO  - End of method -->formTest

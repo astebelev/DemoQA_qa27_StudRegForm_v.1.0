@@ -1,0 +1,4 @@
+19:49:27 2583 [Test worker] INFO  - Start navigate to-->https://demoqa.com/
+19:49:30 5497 [Test worker] INFO  - Start method -->smokeTest
+19:49:30 5499 [Test worker] INFO  - Smoke passed
+19:49:30 5510 [Test worker] INFO  - End of method -->smokeTest

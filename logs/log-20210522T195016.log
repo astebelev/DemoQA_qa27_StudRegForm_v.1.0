@@ -1,0 +1,64 @@
+19:50:19 2833 [Test worker] INFO  - Start navigate to-->https://demoqa.com/
+19:50:21 5450 [Test worker] INFO  - Start method -->formTest
+19:50:21 5452 [Test worker] INFO  - Start search element-->By.xpath: //div[@class='category-cards']/div[2]
+19:50:21 5479 [Test worker] INFO  - Found ---> By.xpath: //div[@class='category-cards']/div[2]
+19:50:22 6114 [Test worker] INFO  - Start search element-->By.xpath: //span[.='Practice Form']
+19:50:22 6157 [Test worker] INFO  - Found ---> By.xpath: //span[.='Practice Form']
+19:50:22 6268 [Test worker] INFO  - Start search element-->By.id: firstName
+19:50:22 6283 [Test worker] INFO  - Found ---> By.id: firstName
+19:50:22 6342 [Test worker] INFO  - Start search element-->By.id: firstName
+19:50:22 6351 [Test worker] INFO  - Found ---> By.id: firstName
+19:50:22 6380 [Test worker] INFO  - Start search element-->By.id: firstName
+19:50:22 6393 [Test worker] INFO  - Found ---> By.id: firstName
+19:50:22 6433 [Test worker] INFO  - Start search element-->By.id: lastName
+19:50:22 6447 [Test worker] INFO  - Found ---> By.id: lastName
+19:50:22 6495 [Test worker] INFO  - Start search element-->By.id: lastName
+19:50:22 6513 [Test worker] INFO  - Found ---> By.id: lastName
+19:50:22 6539 [Test worker] INFO  - Start search element-->By.id: lastName
+19:50:22 6549 [Test worker] INFO  - Found ---> By.id: lastName
+19:50:22 6582 [Test worker] INFO  - Start search element-->By.id: userEmail
+19:50:22 6600 [Test worker] INFO  - Found ---> By.id: userEmail
+19:50:22 6646 [Test worker] INFO  - Start search element-->By.id: userEmail
+19:50:22 6659 [Test worker] INFO  - Found ---> By.id: userEmail
+19:50:22 6685 [Test worker] INFO  - Start search element-->By.id: userEmail
+19:50:22 6697 [Test worker] INFO  - Found ---> By.id: userEmail
+19:50:23 6841 [Test worker] INFO  - Start search element-->By.xpath: //label[@for='gender-radio-2']
+19:50:23 6857 [Test worker] INFO  - Found ---> By.xpath: //label[@for='gender-radio-2']
+19:50:23 6920 [Test worker] INFO  - Start search element-->By.id: userNumber
+19:50:23 6938 [Test worker] INFO  - Found ---> By.id: userNumber
+19:50:23 6984 [Test worker] INFO  - Start search element-->By.id: userNumber
+19:50:23 6995 [Test worker] INFO  - Found ---> By.id: userNumber
+19:50:23 7018 [Test worker] INFO  - Start search element-->By.id: userNumber
+19:50:23 7029 [Test worker] INFO  - Found ---> By.id: userNumber
+19:50:23 7078 [Test worker] INFO  - Start search element-->By.id: subjectsInput
+19:50:23 7094 [Test worker] INFO  - Found ---> By.id: subjectsInput
+19:50:23 7157 [Test worker] INFO  - Start search element-->By.id: subjectsInput
+19:50:23 7170 [Test worker] INFO  - Found ---> By.id: subjectsInput
+19:50:23 7198 [Test worker] INFO  - Start search element-->By.id: subjectsInput
+19:50:23 7210 [Test worker] INFO  - Found ---> By.id: subjectsInput
+19:50:23 7297 [Test worker] INFO  - Start search element-->By.id: subjectsInput
+19:50:23 7310 [Test worker] INFO  - Found ---> By.id: subjectsInput
+19:50:23 7363 [Test worker] INFO  - Start search element-->By.id: currentAddress
+19:50:23 7383 [Test worker] INFO  - Found ---> By.id: currentAddress
+19:50:23 7427 [Test worker] INFO  - Start search element-->By.id: currentAddress
+19:50:23 7440 [Test worker] INFO  - Found ---> By.id: currentAddress
+19:50:23 7471 [Test worker] INFO  - Start search element-->By.id: currentAddress
+19:50:23 7484 [Test worker] INFO  - Found ---> By.id: currentAddress
+19:50:23 7548 [Test worker] INFO  - Start search element-->By.id: react-select-3-input
+19:50:23 7563 [Test worker] INFO  - Found ---> By.id: react-select-3-input
+19:50:24 7813 [Test worker] INFO  - Start search element-->By.id: react-select-4-input
+19:50:24 7841 [Test worker] INFO  - Found ---> By.id: react-select-4-input
+19:50:24 8126 [Test worker] INFO  - Start search element-->By.id: uploadPicture
+19:50:24 8156 [Test worker] INFO  - Found ---> By.id: uploadPicture
+19:50:24 8191 [Test worker] INFO  - Start search element-->By.id: example-modal-sizes-title-lg
+19:50:34 18264 [Test worker] INFO  - We have a throwable no such element: Unable to locate element: {"method":"css selector","selector":"#example\-modal\-sizes\-title\-lg"}
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-832BH2N', ip: '10.0.0.3', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\Stebelev\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49234}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fbef6f10ee4bc4da335a1dce5a14444e
+*** Element info: {Using=id, value=example-modal-sizes-title-lg}
+19:50:34 18644 [Test worker] INFO  - Screen with throwable --> src/test/screenshots/screenshot--2602.png
+19:50:34 18672 [Test worker] INFO  - End of method -->formTest
